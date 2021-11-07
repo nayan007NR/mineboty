@@ -1,9 +1,9 @@
 {
- "ip": "Nayan007NR.aternos.me",
- "port": "64348",
- "name": "Mai hoo Don",
+ "ip": "Your_minecraft_server_ip_here",
+ "port": "Your_server_port_here",
+ "name": "Your_bot_name_here",
  "auto-night-skip": "false",
- "token": "OTA2ODYxMDc1NDU3MjczODk2.YYeyMQ.s4jMUI4QyKY6Vp39AfgC5ZdUI7s",
- "channelid": "906858338099277827",
- "loginmsg": "mai hoo don"
+ "token": "Your_discord_bot_token_here",
+ "channelid": "Your_discord_server_channel_id_here",
+ "loginmsg": "Your_Login_message_here"
 }
